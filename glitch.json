@@ -20,3 +20,18 @@
     "throttle": 1000
   }
 }
+
+//this is my change
+
+
+ },
+    "restart": {
+      "include": [
+        "\\.py$",
+        "\\.html$",
+        "^sh/start\\.sh"
+      ]
+    },
+    "throttle": 550
+  }
+}
